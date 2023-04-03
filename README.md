@@ -25,15 +25,15 @@ Participants are expected to know the basics of Python and have at least some ex
 
 #### Workshop schedule structure
 ##### 11 April 2023, Tuesday
-09:30 – 12:30 | Workshop 1: Introduction to Open Science tools and online self-training materials (Dr. Arnim Bleier, Dr. Haiko Lietz, & Dr. N. Gizem Bacaksizlar Turbic)
+09:30 – 12:30 | [Workshop 1: Introduction to Open Science tools and online self-training materials](https://github.com/socialcomquant/css_methods_python_workshop/tree/main/workshop1) (Dr. Arnim Bleier, Dr. Haiko Lietz, & Dr. N. Gizem Bacaksizlar Turbic)
 
 12:30 – 14:00 | Lunch break
 
-14:00 – 17:00 | Workshop 2: Introduction to network analysis with Python (Dr. Haiko Lietz & Dr. N. Gizem Bacaksizlar Turbic)
+14:00 – 17:00 | [Workshop 2: Introduction to network analysis with Python](https://github.com/socialcomquant/css_methods_python_workshop/tree/main/workshop2) (Dr. Haiko Lietz & Dr. N. Gizem Bacaksizlar Turbic)
 
 ##### 12 April 2023, Wednesday
-09:30 – 12:30 | Workshop 3: Introduction to machine learning with Python (Dr. Arnim Bleier & Dr. Haiko Lietz)
+09:30 – 12:30 | [Workshop 3: Introduction to machine learning with Python](https://github.com/socialcomquant/css_methods_python_workshop/tree/main/workshop3) (Dr. Arnim Bleier & Dr. Haiko Lietz)
 
 12:30 – 14:00 | Lunch break
 
-14:00 – 17:00 | Workshop 4: Introduction to natural language processing and topic modeling with Python (Dr. Nicolò Gozzi & Dr. N. Gizem Bacaksizlar Turbic) 
+14:00 – 17:00 | [Workshop 4: Introduction to natural language processing and topic modeling with Python](https://github.com/socialcomquant/css_methods_python_workshop/tree/main/workshop4) (Dr. Nicolò Gozzi & Dr. N. Gizem Bacaksizlar Turbic) 
