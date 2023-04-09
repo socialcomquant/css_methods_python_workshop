@@ -1,0 +1,31 @@
+name: css_methods_python_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - beautifulsoup4=4.11.1
+  - feedparser=6.0.8
+  - gensim=4.1.2
+  - networkx=2.8.4
+  - openpyxl=3.0.10
+  - pip=22.2.2
+  - pygraphviz=1.9
+  - python=3.9.13
+  - requests=2.28.1
+  - scikit-learn=1.0.2
+  - scipy=1.9.1
+  - seaborn=0.11.2
+  - selenium=3.141.0
+  - spacy=3.3.1
+  - sqlalchemy=1.4.39
+  - statsmodels=0.13.2
+  - textacy=0.11.0
+  - xlsxwriter=3.0.3
+  - pip:
+    - emoji==2.2.0
+    - factor-analyzer==0.4.1
+    - mwparserfromhell==0.6.4
+    - powerlaw==1.5
+    - pywikibot==8.0.2
+    - wikipedia==1.4.0
+    - wikitextparser==0.51.1
