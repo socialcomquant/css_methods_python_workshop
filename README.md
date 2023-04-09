@@ -1,6 +1,10 @@
-[New Social ComQuant Workshop Series](https://socialcomquant.ku.edu.tr/intro-to-css-methods-with-python/)
-
 # Introduction to Computational Social Science methods with Python
+
+Materials for the [Social ComQuant](https://socialcomquant.ku.edu.tr) 2023 [Workshop Series](https://socialcomquant.ku.edu.tr/intro-to-css-methods-with-python/)
+
+
+Launch online
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/socialcomquant/css_methods_python_workshop/HEAD)
 
 #### Workshop Date
 11-12 April 2023
@@ -37,3 +41,9 @@ Participants are expected to know the basics of Python and have at least some ex
 12:30 – 14:00 | Lunch break
 
 14:00 – 17:00 | [Workshop 4: Introduction to natural language processing and topic modeling with Python](https://github.com/socialcomquant/css_methods_python_workshop/tree/main/workshop4) (Dr. Nicolò Gozzi & Dr. N. Gizem Bacaksizlar Turbic) 
+
+
+
+---
+[![](https://licensebuttons.net/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) 
+Please link to the [workshop series GitHub repository](https://github.com/socialcomquant/css_methods_python_workshop)
