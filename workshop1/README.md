@@ -8,3 +8,5 @@ Open Science comprises the principle to make data and methods openly available i
 
 ### Materials
 Slides are available [here](https://docs.google.com/presentation/d/13Vhd3el2pWxbAGYwUdu5bjidKHzbysyp8250ySnhFOk/edit?usp=sharing).
+
+For the exercise solution see [here](https://github.com/arnim/hello_jupyter23/tree/main).
