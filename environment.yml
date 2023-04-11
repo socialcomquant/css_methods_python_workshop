@@ -30,3 +30,4 @@ dependencies:
     - pywikibot==8.0.2
     - wikipedia==1.4.0
     - wikitextparser==0.51.1
+    - pyLDAvis==3.4.0
