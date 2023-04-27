@@ -4,7 +4,7 @@ Materials for the [Social ComQuant](https://socialcomquant.ku.edu.tr) 2023 [Work
 
 
 Launch online
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/socialcomquant/css_methods_python_workshop/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](http://notebooks.gesis.org/binder/v2/gh/socialcomquant/css_methods_python_workshop/HEAD)
 
 #### Workshop Date
 11-12 April 2023
